@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/items": {
+      "name": "/items",
+      "lambdaFunction": "bookstore13b6bc56",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
